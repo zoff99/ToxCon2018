@@ -10,7 +10,7 @@ https://metalab.at/wiki/Lage
 
 **Friday (12st October):**
 
-* 16:00 - Beginn
+* 16:00 - Doors open
 * 17:00 - Meet & greet - opening speech     -> The Tox Developers
 * 17:45 - The Guardian Project              -> Hans-Christoph Steiner
 * 19:00 - Welcome Dinner
@@ -20,7 +20,7 @@ https://metalab.at/wiki/Lage
 
 **Saturday (13st October):**
 
-* 16:00 - Beginn
+* 16:00 - Doors open
 * 17:00 - Profiling with perf and micro     -> sudden6<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;optimizations in C by example
 * 17:30 - from Echobot to TRIfA, a journey  -> zoff
@@ -36,12 +36,12 @@ https://metalab.at/wiki/Lage
 
 **Sunday (14nd October):**
 
-* 16:00 - Beginn
+* 16:00 - Doors open
 * 17:00 - Blinkenwalls, Electronic Windows, -> strfry, zoff<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and other "magical" portals
 * 18:00 - qTox, building the better Skype   -> sudden6
 * 19:00 - Closing remarks                   -> The Tox Developers
-* 19:30 - Abschluss Dinner
+* 19:30 - Closing Dinner
 
 ## Photos
 
