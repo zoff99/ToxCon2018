@@ -1,5 +1,10 @@
 # ToxCon2018
 
+<img src="https://raw.githubusercontent.com/zoff99/ToxCon2018/master/poster/logo_001.png" width="250">
+
+## Slides
+[Slides](https://github.com/zoff99/ToxCon2018/slides)
+
 ## Location
 https://metalab.at/wiki/Lage
 
