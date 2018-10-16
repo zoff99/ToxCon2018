@@ -27,10 +27,9 @@ https://metalab.at/wiki/Lage
 * 21:00 - tox-rs                            -> Roman Proskuryakov
 * 21:30 - Sybil attacks and tracking in     -> zugz<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the Tox network
-
-* <del>22:15 - Integrating libre audio and       -> ullbeking<br>
+* 22:15 - Integrating libre audio and       -> ullbeking<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;video codecs and container<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;formats with Tox</del>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;formats with Tox
 
 
 **Sunday (14nd October):**
