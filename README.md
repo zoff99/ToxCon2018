@@ -45,6 +45,4 @@ https://metalab.at/wiki/Lage
 
 ## Photos
 
-<img src="https://raw.githubusercontent.com/zoff99/ToxCon2018/master/images/02shirts2.png" height="250"><img src="https://raw.githubusercontent.com/zoff99/ToxCon2018/master/images/00org1.png" width="250"><img src="https://raw.githubusercontent.com/zoff99/ToxCon2018/master/images/00org3.png" width="250"><br>
-<img src="https://raw.githubusercontent.com/zoff99/ToxCon2018/master/images/01group03.png" width="250"><img src="https://raw.githubusercontent.com/zoff99/ToxCon2018/master/images/01group05.png" width="250"><img src="https://raw.githubusercontent.com/zoff99/ToxCon2018/master/images/01group10.png" width="250"><br>
-<img src="https://raw.githubusercontent.com/zoff99/ToxCon2018/master/images/01group11.png" width="250">
+<img src="https://raw.githubusercontent.com/zoff99/ToxCon2018/master/images/02shirts2.png" height="200"><br><img src="https://raw.githubusercontent.com/zoff99/ToxCon2018/master/images/00org1.png" width="250"><img src="https://raw.githubusercontent.com/zoff99/ToxCon2018/master/images/00org3.png" width="250"><br><img src="https://raw.githubusercontent.com/zoff99/ToxCon2018/master/images/01group03.png" width="250"><img src="https://raw.githubusercontent.com/zoff99/ToxCon2018/master/images/01group05.png" width="250"><img src="https://raw.githubusercontent.com/zoff99/ToxCon2018/master/images/01group10.png" width="250"><img src="https://raw.githubusercontent.com/zoff99/ToxCon2018/master/images/01group11.png" width="250">
