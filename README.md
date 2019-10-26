@@ -8,7 +8,7 @@ https://metalab.at/wiki/Lage
 
 ## Schedule
 
-**Friday (12st October):**
+**Friday (12. October):**
 
 * 16:00 - Doors open
 * 17:00 - Meet & greet - opening speech     -> The Tox Developers
@@ -18,7 +18,7 @@ https://metalab.at/wiki/Lage
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;since ToxCon 2017 ?
 * 21:00 - CrashCourseCrypto                 -> Mat
 
-**Saturday (13st October):**
+**Saturday (13. October):**
 
 * 16:00 - Doors open
 * 17:00 - Profiling with perf and micro     -> sudden6<br>
@@ -34,7 +34,7 @@ https://metalab.at/wiki/Lage
 <del>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;video codecs and container</del><br>
 <del>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;formats with Tox</del>
 
-**Sunday (14nd October):**
+**Sunday (14. October):**
 
 * 16:00 - Doors open
 * 17:00 - Blinkenwalls, Electronic Windows, -> strfry, zoff<br>
